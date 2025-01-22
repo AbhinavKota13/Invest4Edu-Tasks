@@ -78,4 +78,4 @@ def generate_report_cards(file_path):
         print(f"Error: {e}")
 
 # Usage
-generate_report_cards('File Path')
+generate_report_cards('Task1.xlsx')
