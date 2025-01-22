@@ -78,4 +78,4 @@ def generate_report_cards(file_path):
         print(f"Error: {e}")
 
 # Usage
-generate_report_cards('C:/Users/91934/OneDrive/Desktop/Task 1.xlsx')
+generate_report_cards('File Path')
